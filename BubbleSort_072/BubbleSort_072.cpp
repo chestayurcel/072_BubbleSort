@@ -69,5 +69,8 @@ int main()
 {
     input();
 
+    bubblesortArray();
+    display();
 
+    system("pause");
 }
